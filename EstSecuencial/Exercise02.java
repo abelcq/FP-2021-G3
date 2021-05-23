@@ -10,16 +10,16 @@ public class Exercise02 {
         //Entradas
         Scanner teclado = new Scanner(System.in);
         System.out.println("Ingrese la base:");
-        b = teclado.nextInt();
+        b = teclado.nextDouble();
         System.out.println("Ingrese la altura:");
-        h = teclado.nextInt();
+        h = teclado.nextDouble();
 
         //Proceso
-        a = (b*h)/2;
+        a = (b * h) / 2;
 
         //Salida
-        System.out.println("El area del triangulo es:");
-        System.out.println(""+ a);
+        System.out.println("");
+        System.out.println("area:"+ a);
 
     
 

@@ -1,7 +1,7 @@
 package EstSecuencial;
 
 import java.util.Scanner;
-
+//Suma y resta de dos numeros enteros(int)
 public class Exercise01 {
     public static void main(String[] args) {
         //Variables
