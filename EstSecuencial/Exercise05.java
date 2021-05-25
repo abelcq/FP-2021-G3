@@ -1,7 +1,7 @@
 package EstSecuencial;
 
 import java.util.Scanner;
-// Horas en minutos y segundos
+//Horas en minutos y segundos
 public class Exercise05 {
     public static void main(String[] args) {
         //Variables

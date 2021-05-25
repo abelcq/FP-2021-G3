@@ -1,7 +1,6 @@
 package EstSecuencial;
 
 import java.util.Scanner;
-
 //Area y perimetro de un cuadrado
 public class Exercise04 {
     public static void main(String[] args) {
