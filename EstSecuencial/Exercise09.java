@@ -20,7 +20,7 @@ public class Exercise09 {
 
     //Salida
     System.out.println("");
-    System.out.println("Entre a y b hay:"+ d);
+    System.out.println("Entre a y b hay:" + d);
     
 
     }

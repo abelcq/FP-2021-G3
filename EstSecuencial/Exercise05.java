@@ -18,8 +18,8 @@ public class Exercise05 {
         
         //Salida
         System.out.println("");
-        System.out.println("Minutos:" + m);
-        System.out.println("Segundos:" + s);
+        System.out.println("Minutos: " + m);
+        System.out.println("Segundos: " + s);
 
 
     }

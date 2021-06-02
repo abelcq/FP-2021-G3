@@ -23,8 +23,8 @@ public class Exercise08 {
 
         //Salida
         System.out.println("Los resultados son: ");
-        System.out.println(""+ c);
-        System.out.println(""+ d);
+        System.out.println("" + c);
+        System.out.println("" + d);
 
         
         

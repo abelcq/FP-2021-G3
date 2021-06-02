@@ -19,7 +19,7 @@ public class Exercise02 {
 
         //Salida
         System.out.println("");
-        System.out.println("area:"+ a);
+        System.out.println("area: "+ a);
 
     
 

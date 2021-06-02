@@ -20,8 +20,8 @@ public class Exercise01 {
 
         //Salida
         System.out.println("Su suma y resta son:");
-        System.out.println("Suma:" + s);
-        System.out.println("Resta:" + r);
+        System.out.println("Suma: " + s);
+        System.out.println("Resta: " + r);
         
 
     }

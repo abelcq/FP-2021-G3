@@ -18,8 +18,8 @@ public class Exercise04 {
         
         //Salida
         System.out.println("");
-        System.out.println("Area: " + a);
-        System.out.println("Perimetro: "+ p);
+        System.out.println("Area : " + a);
+        System.out.println("Perimetro : "+ p);
 
         
 

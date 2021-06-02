@@ -20,8 +20,8 @@ public class Exercise03 {
 
         //Salida
         System.out.println("Su area y perimetro del restangulo es: ");
-        System.out.println("area:" + a);
-        System.out.println("perimetro:" + p);
+        System.out.println("area: " + a);
+        System.out.println("perimetro: " + p);
 
     }
     
